@@ -21,4 +21,4 @@ print(sum)
 
 
 ## Result
-program executed successfully
+Thus ,the program executed successfully
